@@ -14,7 +14,7 @@ No API keys. No monthly fees. Works with any AI.
 
 ## How it works
 
-[![Demo here](https://img.youtube.com/vi/ZD8JoAy292M/0.jpg)](https://www.youtube.com/watch?v=ZD8JoAy292M)
+![](https://github.com/user-attachments/assets/502840b1-f3cc-4356-9283-6c92445eee2b)
 
 ```
 Your project files
