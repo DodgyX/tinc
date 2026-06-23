@@ -6,7 +6,7 @@ from backend import TINCBackend
 def main():
     api = TINCBackend()
     base = sys._MEIPASS if getattr(sys, 'frozen', False) else os.path.dirname(os.path.abspath(__file__))
-    ui_path = os.path.join(base, 'ui', 'index.html')
+    ui_path = os.path.join(base, 'ui', 'index.html').replace('\\', '/')
 
     window = webview.create_window(
         title='TINC – This is not Copilot',
